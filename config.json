@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "clientId": "",
+    "db": {
+      "host": "localhost",
+      "user": "",
+      "password": "",
+      "database": ""
+    },
+    "domain": "",
+    "port": 7430
+  }
+  

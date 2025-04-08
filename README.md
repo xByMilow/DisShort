@@ -2,7 +2,7 @@ Of course! Here's your polished, professional `README.md` rewritten in **clean a
 
 ---
 
-# DisShort — Custom Discord Invite Shortener Bot
+# DisShort
 
 **DisShort** is a powerful Discord bot that lets users create custom short invite links like `di.scord.me/<code>`, which redirect to their Discord servers. Manage your links, update them, or delete your data — all through easy-to-use slash commands right in Discord.
 
@@ -44,8 +44,6 @@ npm install
 ```
 
 ### 3. Configure the Bot
-
-Create a `config.json` file and fill it in like this:
 
 ```json
 {
